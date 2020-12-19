@@ -1,0 +1,14 @@
+# ignore everything but files below. This increases build time and decreases image size.
+*
+!*.json
+!.npmrc
+!*.sh
+!*.js
+!components/
+!lib/
+!pages/
+!static/
+!utils/
+!public/
+!query/
+!styles/
