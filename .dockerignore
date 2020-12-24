@@ -12,3 +12,5 @@
 !public/
 !query/
 !styles/
+!.env
+!.env.production
